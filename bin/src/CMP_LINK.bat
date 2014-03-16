@@ -1,0 +1,4 @@
+..\masm
+pause
+..\link
+pause
